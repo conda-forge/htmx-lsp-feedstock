@@ -1,5 +1,5 @@
 context:
-  version: 0.1.0
+  version: "0.2.0"
 
 package:
   name: htmx-lsp
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/ThePrimeagen/htmx-lsp/archive/${{ version }}.tar.gz
-  sha256: 704c8e9b8f979b2056d79a1750be8a7609c8de73b015db6de93ca3fc5de0c9cc
+  sha256: 00b3740698ae1c2ca674b492e9db02c4ebf13de53cc9b0217639b67eeb14d52d
 
 build:
   number: 0
